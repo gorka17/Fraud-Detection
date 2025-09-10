@@ -8,7 +8,7 @@ El trabajo se ha estructurado en varias fases:
 
 - Entrenamiento metódico de modelos: se probaron desde algoritmos base como Decision Trees y Random Forests, hasta modelos más sofisticados como XGBoost, pasando por enfoques especializados en desbalance como Balanced Random Forest y el uso de redes de Deep Learning.
 
-Manejo del desbalance: se aplicaron técnicas específicas para mitigar los problemas derivados de la desproporción entre clases, mejorando la capacidad de los modelos para detectar fraudes. Se han considerado Random Over/Under Sampling y SMOTE.
+- Manejo del desbalance: se aplicaron técnicas específicas para mitigar los problemas derivados de la desproporción entre clases, mejorando la capacidad de los modelos para detectar fraudes. Se han considerado Random Over/Under Sampling y SMOTE.
 
 La realización de este proyecto me ha ayudado a:
 
